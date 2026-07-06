@@ -1,4 +1,14 @@
-.DS_Store
-*.class
+
 .vscode/
+
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+
+# Java
+*.class
+
+
 
