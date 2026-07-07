@@ -1,13 +1,12 @@
 
 .vscode/
 
-# macOS
 .DS_Store
 
-# IntelliJ
+
 .idea/
 
-# Java
+
 *.class
 
 
